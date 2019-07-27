@@ -6,7 +6,7 @@ import (
 	"io"
 
 	ristretto "github.com/bwesterb/go-ristretto"
-	generator "github.com/dusk-network/dusk-blockchain/pkg/crypto/rangeproof/generators"
+	generator "gitlab.dusk.network/dusk-core/dusk-go/pkg/crypto/rangeproof/generators"
 )
 
 // Pedersen represents a pedersen struct which holds

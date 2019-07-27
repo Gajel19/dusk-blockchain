@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"errors"
 
-	"github.com/dusk-network/dusk-blockchain/pkg/crypto/hash"
+	"gitlab.dusk.network/dusk-core/dusk-go/pkg/crypto/hash"
 )
 
 // Payload is data that can be stored and checked in the Merkletree.

@@ -3,7 +3,7 @@ package consensus
 import (
 	"sync"
 
-	"github.com/dusk-network/dusk-blockchain/pkg/p2p/wire"
+	"gitlab.dusk.network/dusk-core/dusk-go/pkg/p2p/wire"
 )
 
 // AccumulatorStore is a helper struct for common operations on stored Event Arrays

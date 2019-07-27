@@ -5,13 +5,13 @@ import (
 	"encoding/hex"
 	"sync"
 
-	"github.com/dusk-network/dusk-blockchain/pkg/core/consensus/msg"
-	"github.com/dusk-network/dusk-blockchain/pkg/core/consensus/user"
+	"gitlab.dusk.network/dusk-core/dusk-go/pkg/core/consensus/msg"
+	"gitlab.dusk.network/dusk-core/dusk-go/pkg/core/consensus/user"
 
 	log "github.com/sirupsen/logrus"
 
-	"github.com/dusk-network/dusk-blockchain/pkg/core/consensus"
-	"github.com/dusk-network/dusk-blockchain/pkg/p2p/wire"
+	"gitlab.dusk.network/dusk-core/dusk-go/pkg/core/consensus"
+	"gitlab.dusk.network/dusk-core/dusk-go/pkg/p2p/wire"
 )
 
 // MaxStrikes is the maximum allowed amount of strikes in a single round

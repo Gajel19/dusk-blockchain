@@ -1,6 +1,6 @@
 package hashset
 
-import "github.com/dusk-network/dusk-blockchain/pkg/crypto/hash"
+import "gitlab.dusk.network/dusk-core/dusk-go/pkg/crypto/hash"
 
 var _empty = new(struct{})
 

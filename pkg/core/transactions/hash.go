@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"io"
 
-	"github.com/dusk-network/dusk-blockchain/pkg/crypto/hash"
+	"gitlab.dusk.network/dusk-core/dusk-go/pkg/crypto/hash"
 )
 
 // hashBytes loads all bytes into a buffer, then hashes it using sha3256

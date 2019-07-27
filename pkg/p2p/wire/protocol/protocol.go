@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	cfg "github.com/dusk-network/dusk-blockchain/pkg/config"
+	cfg "gitlab.dusk.network/dusk-core/dusk-go/pkg/config"
 )
 
 // ServiceFlag indicates the services provided by the Node.

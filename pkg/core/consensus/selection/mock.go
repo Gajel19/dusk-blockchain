@@ -3,8 +3,8 @@ package selection
 import (
 	"bytes"
 
-	"github.com/dusk-network/dusk-blockchain/pkg/core/block"
-	"github.com/dusk-network/dusk-blockchain/pkg/crypto"
+	"gitlab.dusk.network/dusk-core/dusk-go/pkg/core/block"
+	"gitlab.dusk.network/dusk-core/dusk-go/pkg/crypto"
 )
 
 // MockSelectionEventBuffer mocks a Selection event, marshals it, and returns the

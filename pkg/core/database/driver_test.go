@@ -1,9 +1,8 @@
 package database
 
 import (
+	"gitlab.dusk.network/dusk-core/dusk-go/pkg/p2p/wire/protocol"
 	"testing"
-
-	"github.com/dusk-network/dusk-blockchain/pkg/p2p/wire/protocol"
 )
 
 func unregisterAllDrivers() {

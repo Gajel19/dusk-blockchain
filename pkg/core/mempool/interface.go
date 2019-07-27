@@ -3,7 +3,7 @@ package mempool
 import (
 	"time"
 
-	"github.com/dusk-network/dusk-blockchain/pkg/core/transactions"
+	"gitlab.dusk.network/dusk-core/dusk-go/pkg/core/transactions"
 )
 
 // TxDesc encapsulates both tx raw and meta data

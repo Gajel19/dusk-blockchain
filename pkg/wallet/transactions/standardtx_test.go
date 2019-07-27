@@ -5,7 +5,7 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/dusk-network/dusk-blockchain/pkg/crypto/key"
+	"gitlab.dusk.network/dusk-core/dusk-go/pkg/crypto/key"
 
 	"github.com/bwesterb/go-ristretto"
 	"github.com/stretchr/testify/assert"

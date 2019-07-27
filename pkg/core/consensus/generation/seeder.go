@@ -4,8 +4,8 @@ import (
 	"bytes"
 	"sync"
 
-	"github.com/dusk-network/dusk-blockchain/pkg/core/consensus/user"
-	"github.com/dusk-network/dusk-blockchain/pkg/crypto/bls"
+	"gitlab.dusk.network/dusk-core/dusk-go/pkg/core/consensus/user"
+	"gitlab.dusk.network/dusk-core/dusk-go/pkg/crypto/bls"
 )
 
 type seeder struct {

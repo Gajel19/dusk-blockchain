@@ -5,7 +5,7 @@ import (
 	"encoding/hex"
 	"time"
 
-	"github.com/dusk-network/dusk-blockchain/pkg/core/block"
+	"gitlab.dusk.network/dusk-core/dusk-go/pkg/core/block"
 )
 
 // A signle point of constants definition

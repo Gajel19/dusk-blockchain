@@ -3,7 +3,7 @@ package reduction
 import (
 	"time"
 
-	"github.com/dusk-network/dusk-blockchain/pkg/core/consensus"
+	"gitlab.dusk.network/dusk-core/dusk-go/pkg/core/consensus"
 )
 
 type context struct {

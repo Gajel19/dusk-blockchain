@@ -3,8 +3,8 @@ package lite
 import (
 	"sync"
 
-	"github.com/dusk-network/dusk-blockchain/pkg/core/database"
-	"github.com/dusk-network/dusk-blockchain/pkg/p2p/wire/protocol"
+	"gitlab.dusk.network/dusk-core/dusk-go/pkg/core/database"
+	"gitlab.dusk.network/dusk-core/dusk-go/pkg/p2p/wire/protocol"
 )
 
 type key [64]byte

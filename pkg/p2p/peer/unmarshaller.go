@@ -5,7 +5,7 @@ import (
 	"errors"
 	"io"
 
-	"github.com/dusk-network/dusk-blockchain/pkg/p2p/wire/protocol"
+	"gitlab.dusk.network/dusk-core/dusk-go/pkg/p2p/wire/protocol"
 )
 
 type messageUnmarshaller struct {
